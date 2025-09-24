@@ -9,8 +9,8 @@ These pages are required for compliance with:
 
 ## 🔗 Live Links (GitHub Pages)
 
-- Privacy Policy: [https://yourusername.github.io/privacy-policies/privacy/](https://yourusername.github.io/privacy-policies/privacy/)
-- Terms of Service: [https://yourusername.github.io/privacy-policies/terms/](https://yourusername.github.io/privacy-policies/terms/)
+- Privacy Policy: [https://supplybook.github.io/privacy-policies/privacy/](https://supplybook.github.io/privacy-policies/privacy/)
+- Terms of Service: [https://supplybook.github.io/privacy-policies/terms/](https://supplybook.github.io/privacy-policies/terms/)
 
 > Replace these links with the actual URLs after setting up GitHub Pages.
 
