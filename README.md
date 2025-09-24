@@ -1,6 +1,6 @@
 # Privacy Policies & Terms of Service
 
-This repository contains public-facing **Privacy Policies** and **Terms of Service** for mobile applications developed by [Your Name or Company Name].
+This repository contains public-facing **Privacy Policies** and **Terms of Service** for mobile applications developed by Vishwanatha N S.
 
 These pages are required for compliance with:
 - Google Play Developer Policy
@@ -11,8 +11,6 @@ These pages are required for compliance with:
 
 - Privacy Policy: [https://supplybook.github.io/privacy-policies/privacy/](https://supplybook.github.io/privacy-policies/privacy/)
 - Terms of Service: [https://supplybook.github.io/privacy-policies/terms/](https://supplybook.github.io/privacy-policies/terms/)
-
-> Replace these links with the actual URLs after setting up GitHub Pages.
 
 ## 🗂 Folder Structure
 
@@ -31,8 +29,4 @@ These pages are required for compliance with:
 
 ## 📧 Contact
 
-If you have questions or concerns about this repository, contact:  
-[supplybook2025@gmail.com]
-
----
-
+If you have questions or concerns about this repository, contact:  Vishwanatha N S | supplybook2025@gmail.com
